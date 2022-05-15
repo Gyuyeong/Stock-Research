@@ -1,0 +1,7 @@
+1. 매출액 추이
+2. EPS
+3. 시가총액 추이
+4. 배당률
+5. PER 추이
+6. beta
+7. SharesOutstanding

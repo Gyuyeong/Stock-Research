@@ -1,0 +1,5 @@
+1. More reliable way to search the stocks.
+2. Color the space between 2 lines of EMV
+3. Make the function capable of plotting more than two plots for the purpose of 
+   displaying multiple indicators.
+4. Draw threshold lines
